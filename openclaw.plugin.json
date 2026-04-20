@@ -1,0 +1,9 @@
+{
+  "id": "openclaw-guard-skills",
+  "skills": ["./skills"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

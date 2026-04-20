@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-guard-skills",
+  "version": "0.1.1",
+  "description": "Shared guard skill bundle for OpenClaw runtimes",
+  "license": "MIT",
+  "files": [
+    "skills/",
+    "openclaw.plugin.json"
+  ]
+}
