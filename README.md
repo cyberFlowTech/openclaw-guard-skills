@@ -7,7 +7,7 @@ versioned and released independently from any single bot or channel plugin.
 
 This repository can also be installed as an OpenClaw plugin-style skill bundle
 because it ships `openclaw.plugin.json` with `skills/` as its exported skill
-root.
+root, plus a no-op extension entry required by the OpenClaw plugin installer.
 
 ## Included skills
 
